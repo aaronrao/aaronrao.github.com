@@ -25,7 +25,7 @@ h2. 软硬环境
 
 * 笔记本：Macbook Pro MD103，CPU：I7 2.3G，内存：10G，硬盘：500G
 
-h2. 关于www.kafeitu.me
+h2. 关于aaronrao.github.com
 
 * 介绍业内流行、成熟的技术、工具、敏捷
 
@@ -41,14 +41,14 @@ h2. 关于www.kafeitu.me
 
 h2. 联系我
 
-* QQ：576525789
-* MSN、Email：yanhonglei[@]gmail.com
-* Weibo: <a href='http://weibo.com/kafeituzi'>@kafeituzi</a>
-* Blog: <a href='http://www.kafeitu.me'>http://www.kafeitu.me</a>
+* QQ：394970971
+* MSN、Email：aaronrao_pursuer@163.com
+* Weibo: <a href='http://weibo.com/aaronrao'>@aaronrao</a>
+* Blog: <a href='http://http://aaronrao.github.com/'>http://http://aaronrao.github.com/</a>
 
 h2. Github项目
 
-* <a href='https://github.com/henryyan'>https://github.com/henryyan</a>
+* <a href='https://github.com/aaronrao'>https://github.com/aaronrao</a>
 
 h2. 关于版权
 

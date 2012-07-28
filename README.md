@@ -1,7 +1,7 @@
 aaronrao_饶磊
 =======
 
-博客源码：[http://www.kafeitu.me](http://www.kafeitu.me)
+博客源码：[http://aaronrao.github.com/](http://aaronrao.github.com/)
 
 使用Github+Jekyll+Markdown。
 
@@ -11,6 +11,8 @@ aaronrao_饶磊
 最初版本来源于：[https://github.com/mbleigh/mbleigh.github.com/](https://github.com/mbleigh/mbleigh.github.com/)
 
 后经蒋鑫修改：[https://github.com/gotgit/gotgit.github.com/](https://github.com/gotgit/gotgit.github.com/)
+
+再经咖啡兔修改：[https://github.com/henryyan/henryyan.github.com](https://github.com/henryyan/henryyan.github.com)
 
 插件配置：
 ===
@@ -25,3 +27,10 @@ Jekyll生成的静态网页所以不能使用类似于Wordpress的插件提供�
 ===
 
 Fork本项目，然后删除_posts目录的文件，修改项目中的配置信息为自己的并push到github即可。
+
+本博客后期修改
+===
+
+后期打算用octopress重整博客
+
+
